@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: usb2ttl.PcbDoc   4.09.2022  23:56:55
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : usb2ttl-RoundHoles.TXT
+ASCII SlotHoles File : usb2ttl-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             2         PTH        5.00mm (0.20inch)
+T2      0.711mm (28mil)                                           Round             7         PTH        50.57mm (1.99inch)
+T3      1mm (39mil)                                               Round             10        PTH        133.49mm (5.26inch)
+T4      1mm (39mil)                                               Slot              2         PTH        25.55mm (1.01inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              21
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\USB_2_TTL Converter\usb2ttl.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=usb2ttl-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=usb2ttl-slotholes.txt|DrillLayers=gtl,gbl
